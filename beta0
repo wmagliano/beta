@@ -1,1 +1,9 @@
-alert("pastebin");
+<html>
+<head>
+<link rel="stylesheet" href="resource://content-accessible/plaintext.css">
+<meta http-equiv="Content-Type" content="application/javascript;charset=UTF-8">
+</head>
+<body>
+<pre>alert("pastebin");</pre>
+</body>
+</html>
