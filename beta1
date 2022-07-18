@@ -1,6 +1,6 @@
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/plain;charset=UTF-8">
+<meta http-equiv="Content-Type" content="text/javascript">
 </head>
 <body>
 <pre>alert("pastebin");</pre>
