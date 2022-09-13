@@ -1,2 +1,2 @@
-document.write('<script>alert("Prueba DVWA CSP")</script>');
+alert("pastebin");
 
